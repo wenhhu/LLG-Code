@@ -1,0 +1,3 @@
+/Users/wenhaohu/Dropbox/LLG_Code/CMakeFiles/edit_cache.dir
+/Users/wenhaohu/Dropbox/LLG_Code/CMakeFiles/rebuild_cache.dir
+/Users/wenhaohu/Dropbox/LLG_Code/CMakeFiles/Magnon.dir
